@@ -21,6 +21,7 @@
       <change afterPath="$PROJECT_DIR$/src/DataType_string.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/any_type.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basicfunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/condition.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/first.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/label.kt" afterDir="false" />
@@ -109,11 +110,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/label.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="15" />
+            <state relative-caret-position="532">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/collection.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -142,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/any_type.kt" />
         <option value="$PROJECT_DIR$/src/condition.kt" />
         <option value="$PROJECT_DIR$/src/label.kt" />
+        <option value="$PROJECT_DIR$/src/collection.kt" />
       </list>
     </option>
   </component>
@@ -177,7 +188,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552194511356" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552204172643" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -196,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.LabelKt">
+  <component name="RunManager" selected="Kotlin.CollectionKt">
     <configuration name="Any_typeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="VM_PARAMETERS" />
@@ -218,6 +229,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="BasicfunctionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CollectionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -249,26 +273,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScopeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ScopeKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CollectionKt" />
         <item itemvalue="Kotlin.LabelKt" />
         <item itemvalue="Kotlin.ConditionKt" />
         <item itemvalue="Kotlin.Any_typeKt" />
         <item itemvalue="Kotlin.BasicfunctionKt" />
-        <item itemvalue="Kotlin.ScopeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -379,8 +390,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/label.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="15" />
+        <state relative-caret-position="532">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
